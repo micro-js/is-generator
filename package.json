@@ -2,7 +2,7 @@
   "name": "@micro-js/is-generator",
   "description": "Check if generator.",
   "repository": "git://github.com/micro-js/is-generator.git",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
