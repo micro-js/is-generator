@@ -10,12 +10,12 @@ Check if generator.
 
 ## Installation
 
-    $ npm install @micro-js/is-generator
+    $ npm install @f/is-generator
 
 ## Usage
 
 ```js
-var isGenerator = require('@micro-js/is-generator')
+var isGenerator = require('@f/is-generator')
 
 isGenerator(function * () {
   yield 1
@@ -40,5 +40,5 @@ MIT
 [git-url]: https://github.com/micro-js/is-generator
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/is-generator.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/is-generator
+[npm-image]: https://img.shields.io/npm/v/@f/is-generator.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/is-generator
