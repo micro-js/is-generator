@@ -14,8 +14,8 @@ test('generator is generator', function (t) {
   t.end()
 })
 
-test('generator is not generator', function (t) {
-  t.equal(isGenerator(function * () {}()), true)
+test('generator object is not generator', function (t) {
+  t.equal(isGenerator(function * () {}()), false)
   t.end()
 })
 

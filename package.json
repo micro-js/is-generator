@@ -8,9 +8,7 @@
   "scripts": {
     "postversion": "git push && git push --tags && npm publish --access=public"
   },
-  "dependencies": {
-    "@f/is-generator-object": "^1.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "tape": "^4.2.2",
     "standard": "^5.4.1"
